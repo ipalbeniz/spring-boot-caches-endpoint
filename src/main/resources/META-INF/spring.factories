@@ -1,0 +1,3 @@
+# Auto Configure Caches Endpoint
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.demo.autoconfiguration.CachesEndpointAutoConfiguration
